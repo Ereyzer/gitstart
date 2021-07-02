@@ -1,0 +1,60 @@
+[33mcommit 9f78992029101510fc989981573331e6d8cd4fd7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ivan Laver <ereyzer142@gmail.com>
+Date:   Fri Jul 2 21:01:44 2021 +0300
+
+    gitignore
+
+[33mcommit ce8fd25cb0233662cfe6eb26ae9a198b0211e18a[m
+Merge: ddb82ca 9bd08a7
+Author: Ivan Laver <ereyzer142@gmail.com>
+Date:   Fri Jul 2 20:46:03 2021 +0300
+
+    Merge branch 'new-api'
+
+[33mcommit 9bd08a73ad8b19f81f0e7e5f0c6ff19f0f5de93f[m
+Author: Ivan Laver <ereyzer142@gmail.com>
+Date:   Fri Jul 2 20:45:20 2021 +0300
+
+    test1
+
+[33mcommit ddb82ca0d656e6b851840aff2aaf56fa15086e79[m
+Author: Ivan Laver <ereyzer142@gmail.com>
+Date:   Fri Jul 2 18:08:47 2021 +0300
+
+    bagfix
+
+[33mcommit 04d99b9d2c644280f906f7b47cb594af71ec6c2c[m
+Author: Ivan Laver <ereyzer142@gmail.com>
+Date:   Fri Jul 2 17:54:16 2021 +0300
+
+    test
+
+[33mcommit 7621e5e9ff5de888a2858cba7c4c6eab0f1b5d01[m
+Author: Ivan Laver <ereyzer142@gmail.com>
+Date:   Fri Jul 2 17:32:06 2021 +0300
+
+    Refactoring
+
+[33mcommit afe77f4132b4374fae983e59059bcbd13a9488b9[m
+Author: Ivan Laver <ereyzer142@gmail.com>
+Date:   Fri Jul 2 17:27:59 2021 +0300
+
+    remove
+
+[33mcommit cbe9bccd9c80dc1df048a87534dad8f31b6b88cd[m
+Author: Ivan Laver <ereyzer142@gmail.com>
+Date:   Fri Jul 2 17:22:18 2021 +0300
+
+    Refactoring
+
+[33mcommit 137a76910de9ff0a4940259a67cfa906bdaaee81[m
+Author: Ivan Laver <ereyzer142@gmail.com>
+Date:   Fri Jul 2 17:19:40 2021 +0300
+
+    Refactoring
+
+[33mcommit 3846558cf126526659aee25b3e47c0faf01cf152[m
+Author: Ivan Laver <ereyzer142@gmail.com>
+Date:   Fri Jul 2 17:07:06 2021 +0300
+
+    Init commit
